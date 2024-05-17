@@ -19,7 +19,7 @@ The dataset contains 17 columns and around 28000 rows. It contains different fea
 ### Model Training
 With this dataset, Random Forest exhibited the highest model accuracy, reaching 81%, surpassing Naive Bayes,Logistic Regression,KNN which hovered around 76%, with Decision Tree slightly ahead at 78%.
 
-<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/DEV270201">Devansh Shah</a> & <a href="https://github.com/smit1999">Smit Vora</a></b></h3>
+<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/DEV270201">Devansh Shah</a>, <a href="https://github.com/smit1999">Smit Vora</a> & <a href="https://github.com/HarshShah2000">Harsh Shah</a> </b></h3>
 
 
 
